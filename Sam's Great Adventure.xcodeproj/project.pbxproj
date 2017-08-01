@@ -304,6 +304,7 @@
 				9427D0531F2FB99C006C3C39 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
